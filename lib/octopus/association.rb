@@ -6,7 +6,7 @@ module Octopus
     end
 
     def current_shard
-      owner.current_shard
+      nil
     end
   end
 end
